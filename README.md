@@ -1,3 +1,3 @@
-백준 알고리즘 자동 연동
+<백준 알고리즘> Baekjoon Online Judge 자동 업로드 GitHub 연동
 
-Baekjoon Online Judge
+https://www.acmicpc.net/
